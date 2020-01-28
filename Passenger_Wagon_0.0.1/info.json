@@ -1,0 +1,9 @@
+{
+    "name": "Passenger_Wagon",
+    "version": "0.0.1",
+    "title": "Passenger Wagon",
+    "author": "julius1701",
+    "factorio_version": "0.17",
+    "dependencies": ["base >= 0.17"],
+    "description": "This mod an Passenger Wagon."
+}
